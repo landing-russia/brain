@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "baseFontSize": 18,
   "textFontFamily": "Inter",
-  "interfaceFontFamily": "Inter"
+  "interfaceFontFamily": "Inter",
+  "cssTheme": "AnuPpuccin"
 }

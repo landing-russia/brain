@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HELP/Help Notes.md",
-                "mode": "source",
+                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HELP/Help Notes.md",
+                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HELP/Help Notes.md",
+                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HELP/Help Notes.md"
+                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "8432ee391e7fdd44",
   "lastOpenFiles": [
+    "DESIGN/Usefull Links.md",
+    "DJANGO/Django REST.md",
+    "HELP/Help Notes.md",
     "TRASH/Ссылки.md",
     "HELP/Untitled 20230505 105643.encrypted",
     "TODO/10 May 2023.md",
@@ -158,10 +161,7 @@
     "TRASH",
     "КОНСПЕКТ/Обрывки.md",
     "TODO/4 мая 2023.md",
-    "HELP/Help Notes.md",
-    "DJANGO/Django REST.md",
     "КОНСПЕКТ",
-    "DESIGN/Usefull Links.md",
     "Excalidraw/Drawing 2023-05-05 07.16.35.excalidraw.md",
     "Excalidraw",
     "2023-05-10.md",
