@@ -11,15 +11,26 @@
             "id": "8432ee391e7fdd44",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-05 07.16.35.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "075534ef4463fcfd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
-                "mode": "preview",
+                "file": "TRASH/Ссылки.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
+                "file": "TRASH/Ссылки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
+                "file": "TRASH/Ссылки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +136,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md"
+                "file": "TRASH/Ссылки.md"
               }
             }
+          },
+          {
+            "id": "39ff5c7dbbabc7f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,24 +164,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "meld-encrypt:Create new encrypted note": false
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "8432ee391e7fdd44",
+  "active": "075534ef4463fcfd",
   "lastOpenFiles": [
-    "DESIGN/Usefull Links.md",
+    "Excalidraw/Drawing 2023-05-05 07.16.35.excalidraw.md",
     "DJANGO/Django REST.md",
+    "КОНСПЕКТ/Обрывки.md",
+    "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
+    "DESIGN/Usefull Links.md",
+    "HELP/Untitled 20230505 105643.encrypted",
     "HELP/Help Notes.md",
     "TRASH/Ссылки.md",
-    "HELP/Untitled 20230505 105643.encrypted",
     "TODO/10 May 2023.md",
     "DJANGO/Настройка отправки email в Django для Gmail, Mail.ru и Яндекс почты.md",
-    "КОНСПЕКТ/Чёрный лебедь (Нассим Талеб).md",
     "TRASH",
-    "КОНСПЕКТ/Обрывки.md",
     "TODO/4 мая 2023.md",
     "КОНСПЕКТ",
-    "Excalidraw/Drawing 2023-05-05 07.16.35.excalidraw.md",
     "Excalidraw",
     "2023-05-10.md",
     "TODO/4 May 2023.md",
